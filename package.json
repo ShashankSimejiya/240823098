@@ -1,18 +1,20 @@
 {
-  "name": "240823098",
+  "name": "index.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is firts program",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ShashankSimejiya/240823098.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "s",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/ShashankSimejiya/240823098/issues"
   },
