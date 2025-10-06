@@ -5,7 +5,7 @@
 
 const year = 2020;
 
-if (year % 4 === 0 )
+if (year % 4 == 0 )
 {
     console.log("This Year is a Leap Year");
 }
